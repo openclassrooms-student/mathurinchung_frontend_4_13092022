@@ -1,0 +1,3 @@
+[submodule "gameon"]
+	path = gameon
+	url = https://github.com/mathurinchung/gameon
